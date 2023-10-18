@@ -27,6 +27,8 @@ Data Interpretation and Data Visualization using different charts:
 
 I have used the filter called color with the attribute Region i.e all the different regions will be shown with a different color (It has been shown in the slicer called Region).  The measure represents COUNT of the customers in the data. 
 
+**GENDER CLASSIFICATION**
+
 This is a PIE chart plotting gender(Male and Female) along with COUNT of customers. The filters I have considered are color(for gender division), Angle, Size, Label (COUNT of
 Customers). These are the slicers and labellings used. 
 
