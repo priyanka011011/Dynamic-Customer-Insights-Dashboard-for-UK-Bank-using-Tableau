@@ -87,6 +87,8 @@ Visualization with slider of Age Groups as 10.
 
 
 
+**JOB CLASSIFICATION** 
+
 
 ![image](https://github.com/priyanka011011/Dynamic-Customer-Insights-Dashboard-for-UK-Bank-using-Tableau/assets/83969599/2bbf1762-cec6-41f3-b53e-f09ad4a54741)
 
