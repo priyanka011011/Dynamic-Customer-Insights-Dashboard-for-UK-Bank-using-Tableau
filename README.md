@@ -75,6 +75,7 @@ Visualization with slider of Age Groups as 10.
 
 
 **DISTRIBUTION BY BALANCE** 
+
 This is a COLUMN chart representing Distribution of balance with percentage of customers. 
 
 
