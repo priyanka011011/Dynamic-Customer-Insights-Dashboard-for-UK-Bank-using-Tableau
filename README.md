@@ -40,6 +40,7 @@ Customers). These are the slicers and labellings used.
 
 
 
+**DISTRIBUTION BY AGE**
 
 ![image](https://github.com/priyanka011011/Dynamic-Customer-Insights-Dashboard-for-UK-Bank-using-Tableau/assets/83969599/934638e6-69ed-49d4-8f3e-a0b5b578fee8) 
 
