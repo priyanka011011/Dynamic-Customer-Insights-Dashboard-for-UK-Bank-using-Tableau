@@ -11,3 +11,7 @@ Age, Region, Job Classification, Data Joined, Balance.
 
 
 The connection is live data to have access of real time data. 
+
+Data Interpretation and Data Visualization using different charts: 
+
+
